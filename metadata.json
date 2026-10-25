@@ -1,0 +1,8 @@
+{
+  "name": "Bangla Tesla: Dhaka Rickshaw Race",
+  "description": "Next-gen electric rickshaw racing through Dhaka streets with enhanced physics, cross-platform multiplayer, global leaderboards, seasonal challenges, and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
